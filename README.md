@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Backend development, Nodejs, Blockchain, Wb3**
 
-- 📫 How to reach me **athanase678@gmail.com**
+- 📫 How to reach me **athanase.n.matabaro@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Yo0Fab1mYJExohZlKXEzXldQLfzYAcNiUqu1-o3_vCA/edit](https://docs.google.com/document/d/1Yo0Fab1mYJExohZlKXEzXldQLfzYAcNiUqu1-o3_vCA/edit)
 
@@ -16,7 +16,6 @@
 <a href="https://discord.gg/HYb2t76x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HYb2t76x" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 
 
