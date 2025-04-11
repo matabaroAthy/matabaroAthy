@@ -1,14 +1,13 @@
 
 
-- 🔭 I’m currently working on **PHP_MVC framework**
+- 💻 I work mainly with Node.js, TypeScript, and Python, and I enjoy creating robust APIs, automating workflows, and visualizing data to drive impact
 
-- 🌱 I’m currently learning **Blockchain, Solidity, and Full Stack web3 development**
+- 🌱 Currently expanding my expertise in Web3 and blockchain engineering
 
-- 💬 Ask me about **Backend development, Nodejs, Blockchain, Wb3**
+- 🔍 I’m always learning, contributing to open source, and exploring new tech to solve real-world problems
 
 - 📫 How to reach me **athanase.n.matabaro@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Yo0Fab1mYJExohZlKXEzXldQLfzYAcNiUqu1-o3_vCA/edit](https://docs.google.com/document/d/1Yo0Fab1mYJExohZlKXEzXldQLfzYAcNiUqu1-o3_vCA/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
